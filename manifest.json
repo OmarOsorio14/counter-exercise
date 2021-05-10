@@ -1,0 +1,50 @@
+{
+    "name" : "Contador app Vue",
+    "short_name" : "contador Vue",
+    "description" : "esta es una aplicacion de pureba para el curso de vue 3 desde cero",
+    "background_color": "#486491",
+    "theme_color": "#42b983",
+    "start_url": "./?umt_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-CO",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./img/mainIcon.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+     
+    ]
+}
